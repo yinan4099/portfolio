@@ -29,7 +29,7 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'My Projects1',
+      header: 'My Projects',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
@@ -74,7 +74,7 @@ const CONFIG = {
     website: 'https://www.arifszn.com',
     phone: '',
     ejoi: 'a',
-    email: 'arifulalamszn@gmail.com',
+    emai: 'arifulalamszn@gmail.com',
   },
   resume: {
     fileUrl:
