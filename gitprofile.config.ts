@@ -73,7 +73,7 @@ const CONFIG = {
     telegram: '',
     website: 'https://www.arifszn.com',
     phone: '',
-    ejoi: '',
+    ejoi: 'a',
     email: 'arifulalamszn@gmail.com',
   },
   resume: {
