@@ -72,7 +72,7 @@ const CONFIG = {
     skype: '',
     telegram: '',
     website: '',
-    phone: '',
+    phone: '830 714 22 28',
     email: 'yinan4099@gmail.com',
   },
   resume: {
@@ -97,11 +97,11 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Texas A&M University Department of Biomedical Engineering',
+      position: 'Biomedical Research Intern',
+      from: 'Aug 2023',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://engineering.tamu.edu/biomedical/index.html',
     },
     {
       company: 'uVox INC',
