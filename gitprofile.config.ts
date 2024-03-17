@@ -41,12 +41,12 @@ const CONFIG = {
           link: '#',
         },
         {
-          title: 'Project Name',
+          title: 'Harmful Brain Activity Classification',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'AI model for "Classify seizures and other patterns of harmful brain activity in critically ill patients" based on electroencephalography (EEG) signals. (Competition hosted by Harvard Medical School)',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://i.postimg.cc/N0TPs2bj/header.png',
+          link: '#',
         },
       ],
     },
@@ -165,7 +165,7 @@ const CONFIG = {
   // Display articles from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    username: '', // to hide blog section, keep it empty
     limit: 2, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
