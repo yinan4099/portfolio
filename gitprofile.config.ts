@@ -35,10 +35,10 @@ const CONFIG = {
         {
           title: 'Mobile Air-Plane Game',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'A unique artificial intelligence-powered, 3D pixel art style mobile airplane simulation game made with Unity.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://i.postimg.cc/mZn6Cyjc/Whats-App-Video-2023-06-06-at-1-58-00-PM-2-1-frame-at-0m22s.jpg',
+          link: '#',
         },
         {
           title: 'Project Name',
