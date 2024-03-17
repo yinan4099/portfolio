@@ -118,6 +118,15 @@ const CONFIG = {
       year: 'March 2022',
       link: 'https://example.com',
     },
+        {
+      name: 'EJOI : Bronze Medal',
+      body: 'Lorem ipsum dolor sit amet',
+      year: 'March 2022',
+      link: 'https://example.com',
+    },
+        {
+      name: 'EJOI : Bronze Medal',
+    },
   ],
   educations: [
     {
