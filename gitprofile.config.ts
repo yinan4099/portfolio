@@ -112,19 +112,28 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: 'Turkey National Junior Olympiad Team',
+      body: '',
+      year: '2022 - 2023',
+      link: '',
     },
         {
       name: 'EJOI : Bronze Medal',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      body: 'European Junior Olympiad in Informatics',
+      year: 'September 2022',
+      link: 'https://olympiads.jsoft.am/Participants/ParticipantDetails?participantId=1731',
     },
         {
-      name: 'EJOI : Bronze Medal',
+      name: 'USACO Platinum',
+    },
+            {
+      name: 'CyberPatriot Platinum Division: National Semi-Finalist',
+    },
+            {
+      name: 'USACO Platinum',
+    },
+            {
+      name: 'USACO Platinum',
     },
   ],
   educations: [
@@ -143,23 +152,33 @@ const CONFIG = {
   ],
   publications: [
     {
-      title: 'Publication Title',
-      conferenceName: '',
-      journalName: 'Journal Name',
-      authors: 'John Doe, Jane Sith',
-      link: 'https://example.com',
+      title: 'Adaptive Multiscale Retinal Diagnosis: A Hybrid Trio-Model Approach for Comprehensive Fundus Multi-Disease Detection Leveraging Transfer Learning and Siamese Networks ',
+      conferenceName: 'Grand Award Winner Research',
+      journalName: 'Alamo Regional Science & Engineering Fair',
+      authors: '',
+      link: 'https://drive.google.com/file/d/1DuvbgYOcfC4j0vwK218_Lm8mvoIAnEu9/view?usp=sharing',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'WHO has declared that more than 2.2 billion people worldwide are suffering from visual disorders, such as media haze, glaucoma, and drusen. At least 1 billion of these cases could have been either prevented or successfully treated, yet they remain unaddressed due to poverty, a lack of specialists, inaccurate ocular fundus diagnoses by ophthalmologists, or the presence of a rare disease. To address this, the research has developed the Hybrid Trio-Network Model Algorithm for accurately diagnosing 12 distinct common and rare eye diseases. This algorithm utilized the RFMiD dataset of 3,200 fundus images and the Binary Relevance Method to detect diseases separately, ensuring expandability and avoiding incorrect correlations. Each detector, incorporating finely tuned hyperparameters to optimize performance, consisted of three feature components: A classical transfer learning CNN model, a two-stage CNN model, and a Siamese Network. The diagnosis was made using features extracted through this Trio-Model with Ensembled Machine Learning algorithms. The proposed model achieved an average accuracy of 97% and an AUC score of 0.96. Compared to past benchmark studies, an increase of over 10% in the F1-score was observed for most diseases. Furthermore, using the Siamese Network, the model successfully made predictions in diseases like optic disc pallor, which past studies failed to predict due to low confidence. This diagnostic tool presents a stable, adaptive, cost-effective, efficient, accessible, and fast solution for globalizing early detection of both common and rare diseases. An FDA-cleared, smartphone-based artificial intelligence system, capable of detecting over 100 diseases, is currently under development.',
     },
     {
-      title: 'Publication Title',
-      conferenceName: 'Conference Name',
+      title: 'Periodic monitoring of Geobacillus stearothermophilus growth using a custom-developed portable platform for enhanced autoclave sterilization verification',
+      conferenceName: 'Texas A&M SRW',
       journalName: '',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
+      authors: '',
+      link: 'https://drive.google.com/file/d/11GSYPg9h3AM1tqwWI4Wl2_rAhrZyi-to/view?usp=sharing',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'In the face of alarming sterilization failure rates in healthcare settings, which studies indicate can reach as high as 71.0% [1], the need for improved verification methods for sterilization is undeniable. Traditional sterilization techniques, reliant on biological and chemical indicators, suffer from significant drawbacks, such as protracted processing times (up to 48 hours) and susceptibility to environmental conditions, and require manual interpretation. Here, we present the details of the digital image processing algorithm for automated colorimetric analysis used in conjunction with a custom-developed optical system to improve autoclave sterilization verification. The images of test samples were automatically acquired with 30-minutes time intervals and processed digitally for early detection of color change in samples due to the growth of Geobacillus stearothermophilus. This periodic monitoring system facilitates a rapid, reliable, and fully automated assessment of sterilization efficacy through the analysis of colorimetric changes in autoclave sterilization test tubes, offering results within 5 hours— substantially quicker than that required by conventional methods. Our findings demonstrate the system's capability to significantly reduce the time required for sterilization verification, thus enhancing infection control measures. Furthermore, the automation of the verification process minimizes the potential for human error, underscoring the system's reliability. While primarily aimed at autoclave validation, the application of this technology extends beyond microbial growth monitoring and infection control, promising to impact healthcare practices.',
     },
+        {
+      title: 'Examining concept development classroom interaction quality and children's developmental progress in state pre-K/head start programs using pre-K CLASS and LAP-3',
+      conferenceName: '',
+      journalName: 'Acta Psychologica',
+      authors: '',
+      link: '',
+      description:
+        'Concept Development [CD] in the early years cannot be complete without teachers' support. However, limited research exists. This research aimed to assess CD classroom interactional quality and its relationship with other quality dimensions/domains and children's overall development using the data collected in State Pre-K/Head Start classrooms with Pre-K CLASS and LAP-3. Data collected from 171 classrooms underwent analysis with Python and SPSS. Pre-K CLASS scores showed that with the exception of one high-quality classroom, all other classrooms were categorized as either mid-quality or low-quality CD. Moreover, most teachers showed lower interactional quality not only in the CD dimension but also in the Quality of Feedback [QF] and Language Modeling [LM] dimensions of Instructional Support [IS], than in the dimensions of Emotional Support [ES] and Classroom Organization [CO] domains. The results indicated that CD, QF, and LM quality dimensions did not differ across the classrooms or districts. However, ES, CO, and IS domains differed significantly. While the observed differences for ES and CO were similar between the two districts, District 1 had higher mean IS scores than District 2. Furthermore, LAP-3 scores of 2514 children showed that 26.7 % of children scored below the expected level in cognitive development and 35.5 % scored below in language development by the end of the school year, with a higher proportion of male children falling in this category. Nonetheless, children attending State Pre-K/Head Start classrooms demonstrated an average gain of 4 months beyond their chronological age. The multi-level regression analysis of Pre-K CLASS and those LAP-3 scores showed no statistically significant relationship between interactional quality and children's developmental progress. Children in mid-quality CD classrooms showed slightly more progress in all areas of development, except in personal/social, compared to children in low-quality CD classrooms. Similarly, children in mid-quality IS classrooms outperformed those in low-quality IS classrooms in all LAP-3 areas except personal/social and pre-writing as well. In conclusion, the current research suggests that many teachers struggle not only to effectively provide high-quality CD teacher-child interactions but also high-quality IS teacher-child interactions in their classrooms. Comprehensive in-service training on CD and an alternative assessment tool that extends beyond the 72-month age limit are strongly recommended. This is important to ensure that teachers are equipped with the necessary skills and motivation to provide high-quality education to young children to prevent developmental delays in children.',
+    },
+    
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
