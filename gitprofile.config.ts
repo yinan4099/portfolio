@@ -146,16 +146,10 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Gpa: 4,0',
+      degree: 'Reagan High School',
+      from: '202',
+      to: '2026',
     },
   ],
   publications: [
