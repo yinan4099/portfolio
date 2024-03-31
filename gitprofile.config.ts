@@ -77,8 +77,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
-  },
+      'https://drive.google.com/file/d/15xs0cEpUOSRI8JpUG2efzgBUz6maxNQ5/view?usp=sharing',   },
   skills: [
     'AI/ML',
     'Tensorflow/Keras',
