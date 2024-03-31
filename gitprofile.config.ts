@@ -111,12 +111,6 @@ const CONFIG = {
     },
   ],
   certifications: [
-    {
-      name: 'Turkey National Junior Olympiad Team',
-      body: '',
-      year: '2022 - 2023',
-      link: '',
-    },
         {
       name: 'EJOI : Bronze Medal',
       body: 'European Junior Olympiad in Informatics',
@@ -125,15 +119,29 @@ const CONFIG = {
     },
         {
       name: 'USACO Platinum',
+      year: '2023 - 2024',
+    },
+            {
+      name: 'Alamo Regional Science & Engineering Fair: Grand Award',
+      year: '2023 - 2024',
+    },
+        {
+      name: 'Turkey National Junior Olympiad Team',
+      body: '',
+      year: '2022 - 2023',
+      link: '',
     },
             {
       name: 'CyberPatriot Platinum Division: National Semi-Finalist',
     },
             {
-      name: 'USACO Platinum',
+      name: 'Singapore & Asian Schools Math Olympiad: Gold Medal',
     },
             {
-      name: 'USACO Platinum',
+      name: 'Waterloo Canada University Fryer Mathematics & Computing Competition: Certificate of Distinction',
+    },
+                {
+      name: '13th Annual University of Central Florida [UCF] High School Programming Tournament: 2nd Place',
     },
   ],
   educations: [
@@ -169,15 +177,7 @@ const CONFIG = {
       description:
         'In the face of alarming sterilization failure rates in healthcare settings, which studies indicate can reach as high as 71.0% [1], the need for improved verification methods for sterilization is undeniable. Traditional sterilization techniques, reliant on biological and chemical indicators, suffer from significant drawbacks, such as protracted processing times (up to 48 hours) and susceptibility to environmental conditions, and require manual interpretation. Here, we present the details of the digital image processing algorithm for automated colorimetric analysis used in conjunction with a custom-developed optical system to improve autoclave sterilization verification. The images of test samples were automatically acquired with 30-minutes time intervals and processed digitally for early detection of color change in samples due to the growth of Geobacillus stearothermophilus. This periodic monitoring system facilitates a rapid, reliable, and fully automated assessment of sterilization efficacy through the analysis of colorimetric changes in autoclave sterilization test tubes, offering results within 5 hours— substantially quicker than that required by conventional methods. Our findings demonstrate the systems capability to significantly reduce the time required for sterilization verification, thus enhancing infection control measures. Furthermore, the automation of the verification process minimizes the potential for human error, underscoring the systems reliability. While primarily aimed at autoclave validation, the application of this technology extends beyond microbial growth monitoring and infection control, promising to impact healthcare practices.',
     },
-        {
-      title: 'Examining concept development classroom interaction quality and childrens developmental progress in state pre-K/head start programs using pre-K CLASS and LAP-3',
-      conferenceName: '',
-      journalName: 'Acta Psychologica',
-      authors: '',
-      link: '',
-      description:
-        'Concept Development [CD] in the early years cannot be complete without teachers support. However, limited research exists. This research aimed to assess CD classroom interactional quality and its relationship with other quality dimensions/domains and childrens overall development using the data collected in State Pre-K/Head Start classrooms with Pre-K CLASS and LAP-3. Data collected from 171 classrooms underwent analysis with Python and SPSS. Pre-K CLASS scores showed that with the exception of one high-quality classroom, all other classrooms were categorized as either mid-quality or low-quality CD. Moreover, most teachers showed lower interactional quality not only in the CD dimension but also in the Quality of Feedback [QF] and Language Modeling [LM] dimensions of Instructional Support [IS], than in the dimensions of Emotional Support [ES] and Classroom Organization [CO] domains. The results indicated that CD, QF, and LM quality dimensions did not differ across the classrooms or districts. However, ES, CO, and IS domains differed significantly. While the observed differences for ES and CO were similar between the two districts, District 1 had higher mean IS scores than District 2. Furthermore, LAP-3 scores of 2514 children showed that 26.7 % of children scored below the expected level in cognitive development and 35.5 % scored below in language development by the end of the school year, with a higher proportion of male children falling in this category. Nonetheless, children attending State Pre-K/Head Start classrooms demonstrated an average gain of 4 months beyond their chronological age. The multi-level regression analysis of Pre-K CLASS and those LAP-3 scores showed no statistically significant relationship between interactional quality and childrens developmental progress. Children in mid-quality CD classrooms showed slightly more progress in all areas of development, except in personal/social, compared to children in low-quality CD classrooms. Similarly, children in mid-quality IS classrooms outperformed those in low-quality IS classrooms in all LAP-3 areas except personal/social and pre-writing as well. In conclusion, the current research suggests that many teachers struggle not only to effectively provide high-quality CD teacher-child interactions but also high-quality IS teacher-child interactions in their classrooms. Comprehensive in-service training on CD and an alternative assessment tool that extends beyond the 72-month age limit are strongly recommended. This is important to ensure that teachers are equipped with the necessary skills and motivation to provide high-quality education to young children to prevent developmental delays in children.',
-    },
+
     
   ],
   // Display articles from your medium or dev account. (Optional)
